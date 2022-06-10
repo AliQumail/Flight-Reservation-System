@@ -1,0 +1,14 @@
+.locations {
+    background-color: rgb(177, 166, 149);
+}
+.boarding-pass{
+    background-color: rgb(60, 60, 128);
+}
+.boarding-pass-heading{
+    color:white;
+    text-align: center;
+    font-size: 1.6rem;
+}
+.ticket-details{
+    font-size: 1.1rem;
+}

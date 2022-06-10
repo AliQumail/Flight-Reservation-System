@@ -1,0 +1,25 @@
+.navbar-brand{
+    
+    color: rgb(244, 3, 3);
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+.fast{
+  color:rgb(53, 53, 211);
+  font-size: 2.2rem;
+}
+.airlines{
+ color: rgb(189, 38, 38);
+ font-size: 2.2rem;
+}
+.navs{
+  margin-left: 20px;
+  color: black;
+  font-size: 1.3rem;
+
+}
+
+.navs:hover{
+  border-bottom: solid 2px rgb(244, 3, 3);
+}

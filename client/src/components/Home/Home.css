@@ -1,0 +1,30 @@
+.home-body {
+}
+
+.home-book-btn {
+  background-color: #5A4FF3;
+  color:white;
+  border:none;
+  padding:10px 20px 10px;
+  border-radius: 5%;
+  text-decoration: none;
+  
+}
+.home-book-btn:hover{
+ 
+  color:white;
+}
+
+.bg-img{
+  width: 100%;
+  border-radius: 5%;
+}
+
+.welcome-msg{
+  font-size: 2.6rem;
+  color: #A61932;
+}
+.msg-2{
+  font-size:1.3rem;
+  margin-bottom: 35px;
+}
